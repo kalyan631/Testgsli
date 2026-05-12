@@ -1,0 +1,12 @@
+{
+  "name": "galiyan-api",
+  "version": "1.0.0",
+  "description": "Desi Galiyan API",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
